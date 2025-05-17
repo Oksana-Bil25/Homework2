@@ -4,7 +4,7 @@ body {
   font-size: 16px;
   background-color: #ffffff;
   color: #434455;
-  font-family: "Raleway", sans-serif,
+  font-family: "Raleway", sans-serif;
   }
 
 ul {
@@ -104,7 +104,8 @@ color: #434455;
 
 .header-address-link:hover,
 .header-address-link:focus  {
-  color: #404bbf;  
+  color: #404bbf;
+  text-decoration: underline;  
 }
 
 /**=====HERO=====*/
@@ -169,7 +170,7 @@ color: #434455;
 /**=====TEAM====== */
 
 .team {
-    background: #f4f4fd;
+   
     
 }
 
@@ -188,6 +189,7 @@ color: #2e2f42;
 }
 
 .team-item {
+    background-color: #f4f4fd;
 }
 
 .team-image {
