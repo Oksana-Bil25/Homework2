@@ -1,9 +1,11 @@
 body {
     font-family: "Roboto", sans-serif;
-    font-size: 400;
-    background-color:#ffffff;
+     font-size: 400;
+    background-color: #fff;
     color: #434455
 }
+   
+
 a {
     text-decoration: none;
 }
@@ -51,11 +53,7 @@ color: #4d5ae5;
 
 
 .header-menu-list {
-display: flex;
-align-items: flex-start;
-justify-content: flex-start;
-flex-direction: row;
-gap: 40px;
+
 width: 261px;
 height: 24px;
 background: #fff;
@@ -128,11 +126,7 @@ color: #fff;
 }
 
 .hero-btn {
-display: flex;
-align-items: flex-start;
-justify-content: flex-start;
-flex-direction: row;
-gap: 10px;
+
 
 background: #4d5ae5;
 font-weight: 500;
