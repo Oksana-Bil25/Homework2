@@ -1,8 +1,8 @@
 body {
-    font-family: "Roboto", sans-serif;
-    font-family: "Raleway", sans-serif;
+    font-family: "Roboto", "Raleway" sans-serif;
     font-size: 400;
     background-color:#ffffff;
+    color: #434455
 }
 a {
     text-decoration: none;
@@ -194,7 +194,9 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+text-transform: capitalize
 color: #2e2f42;
+
 }
 
 .team-list {
@@ -218,7 +220,6 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
-text-transform: capitalize
 color: #2e2f42;
 }
 
@@ -243,6 +244,7 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+text-transform: capitalize
 color: #2e2f42;
 }
 
@@ -267,6 +269,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
+
 color: #2e2f42;
 
 }
