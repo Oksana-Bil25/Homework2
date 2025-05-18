@@ -81,8 +81,10 @@ color: #404bbf;
 .header-address { 
     background-color: #fff;
 }
+
 .header-address-list {
 }
+
 .header-address-item {
 
 }
@@ -238,8 +240,7 @@ color: #2e2f42;
 }
 
 .portfolio-item {
-width: 360px;
-height: 420px;
+
 background-color:#ffffff
 
 }
